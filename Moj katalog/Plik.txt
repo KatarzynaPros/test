@@ -1,4 +1,3 @@
 Pierwsza linia
 Druga linia
 Linie 3
-Linia 4
